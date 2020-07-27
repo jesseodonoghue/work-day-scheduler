@@ -69,3 +69,8 @@ textarea{
   font-size: 20px;
   transition: all .3s ease-in-out;
 }
+
+/* Add a bit of spacing at the bottom of the application */
+#hour-17 {
+  margin-bottom: 30px;
+}
